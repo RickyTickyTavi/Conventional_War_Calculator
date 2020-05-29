@@ -10,7 +10,7 @@ It doesn't really do much besides calculate losses based on starting forces and 
 COMPILATION::
 
   To compile the program. The easiest would be to simply double click on it if you already have the Haskell terminal.
-  If you dont already ahve the platform, go here: https://www.haskell.org/downloads/#platform   and follow the instructions.
+  If you dont already have the platform, go here: https://www.haskell.org/downloads/#platform   and follow the instructions.
 
   There are 3 commands you will have to type in order to see every value required of the project.
   They all match Epstein's (no, not the Epstein that did not kill himself in prison) values so please check them.
