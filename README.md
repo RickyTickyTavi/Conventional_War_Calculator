@@ -1,9 +1,10 @@
 # Conventional_War_Calculator
 Taken using the theories of "The calculus of conventional war"
 
-This was a program that was required by my university for our class titled "Principles of Programming languages".
+This was a program that was required by my university for our class titled "Principles of Programming languages". 
+This project was used as a proof of concept to us how functional languages handle math and recursion very well. You can see the use of memoization in this program really helps with the recursive nature of the program.
 
-It was taken from a Professor Epstein's (no, not the Epstein that did not kill himself in prison) book called "The Calculus of Conventional War"
+It was taken from a Professor Joshua Epstein's (Brooking's Institute) paper called "The Calculus of Conventional War: Dynamic Analysis without Lanchester Theory". 
 
 It doesn't really do much besides calculate losses based on starting forces and attrition rates, but I think it's a pretty neat nonetheless.
 
@@ -13,7 +14,7 @@ COMPILATION::
   If you dont already have the platform, go here: https://www.haskell.org/downloads/#platform   and follow the instructions.
 
   There are 3 commands you will have to type in order to see every value required of the project.
-  They all match Epstein's (no, not the Epstein that did not kill himself in prison) values so please check them.
+  They all match Epstein's values so please check them if you wish.
 
 COMMANDS AND USAGE::
 
